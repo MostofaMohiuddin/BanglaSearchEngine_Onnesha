@@ -4,10 +4,10 @@ Bangla Search Engine : "ONNESHA"
 
 Developers -
 
-Khandker Aftarul Islam
+Sk. Md. Mostofa Mohiuddin Sunan
 CSE'16, BUET
 
-Sk. Md. Mostofa Mohiuddin Sunan
+Khandker Aftarul Islam
 CSE'16, BUET
 
 
